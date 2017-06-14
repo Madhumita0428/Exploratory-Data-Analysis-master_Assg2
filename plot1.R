@@ -24,3 +24,4 @@ barplot(Emissions$PM, names.arg=Emissions$Group.1,
         xlab='Year', ylab=expression(paste('PM', ''[2.5], ' in Kilotons')))
 
 dev.off()
+
